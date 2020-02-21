@@ -41,5 +41,7 @@ namespace Senai.Peoples.WebApi.Interfaces
         /// </summary>
         /// <param name="funcionario">Objeto funcionario que será adicionado</param>
         void Inserir(FuncionarioDomain funcionario);
+
+        
     }
 }
