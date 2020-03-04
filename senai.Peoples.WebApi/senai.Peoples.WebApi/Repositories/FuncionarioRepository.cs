@@ -171,7 +171,7 @@ namespace senai.Peoples.WebApi.Repositories
         }
 
         /// <summary>
-        /// Busca uma lista de funcionários através do nome
+        /// Busca uma lista de funcionários através do nome do funcionário
         /// </summary>
         /// <param name="nome">Palavra-chave que será utilizada na busca</param>
         /// <returns>Retorna uma lista de funcionários encontrados</returns>
